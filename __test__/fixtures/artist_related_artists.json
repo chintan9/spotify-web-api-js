@@ -284,7 +284,9 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/3mOsjj1MhocRVwOejIZlTi"
       },
-      "genres": ["Latin"],
+      "genres": [
+        "Latin"
+      ],
       "href": "https://api.spotify.com/v1/artists/3mOsjj1MhocRVwOejIZlTi",
       "id": "3mOsjj1MhocRVwOejIZlTi",
       "images": [
@@ -352,7 +354,12 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK"
       },
-      "genres": ["Heavy Metal", "International", "Latin", "Pop/Rock"],
+      "genres": [
+        "Heavy Metal",
+        "International",
+        "Latin",
+        "Pop/Rock"
+      ],
       "href": "https://api.spotify.com/v1/artists/3bgsNtcf5d5h9jbQbohfBK",
       "id": "3bgsNtcf5d5h9jbQbohfBK",
       "images": [

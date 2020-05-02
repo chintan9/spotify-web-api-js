@@ -106,7 +106,9 @@
         }
       ],
       "is_externally_hosted": false,
-      "languages": ["en"],
+      "languages": [
+        "en"
+      ],
       "media_type": "audio",
       "name": "Without Fail",
       "publisher": "Gimlet",
@@ -219,7 +221,9 @@
         }
       ],
       "is_externally_hosted": false,
-      "languages": ["en-US"],
+      "languages": [
+        "en-US"
+      ],
       "media_type": "audio",
       "name": "Giant Bombcast",
       "publisher": "Giant Bomb",

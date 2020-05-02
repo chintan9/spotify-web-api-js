@@ -109,7 +109,9 @@
           }
         ],
         "is_externally_hosted": false,
-        "languages": ["en-GB"],
+        "languages": [
+          "en-GB"
+        ],
         "media_type": "audio",
         "name": "Pursuit Podcast",
         "publisher": "Jessica Rose",
@@ -225,7 +227,9 @@
           }
         ],
         "is_externally_hosted": false,
-        "languages": ["en"],
+        "languages": [
+          "en"
+        ],
         "media_type": "audio",
         "name": "FT Tech Tonic",
         "publisher": "Financial Times",

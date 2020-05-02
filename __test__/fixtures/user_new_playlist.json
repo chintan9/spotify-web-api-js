@@ -7,7 +7,9 @@
   "followers": null,
   "href": "https://api.spotify.com/v1/users/jmperezperez/playlists/7Kud0O2IdWLbEGgvBkW9di",
   "id": "7Kud0O2IdWLbEGgvBkW9di",
-  "images": [null],
+  "images": [
+    null
+  ],
   "name": "Test from API 3.0",
   "owner": {
     "external_urls": {

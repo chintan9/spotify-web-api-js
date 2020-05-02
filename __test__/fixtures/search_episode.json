@@ -32,7 +32,9 @@
         "is_externally_hosted": false,
         "is_playable": true,
         "language": "en",
-        "languages": ["en"],
+        "languages": [
+          "en"
+        ],
         "name": "EP.20 - Web performance ใน ปี 2020 จะเปลี่ยนไปยังไงบ้าง",
         "release_date": "2020-03-30",
         "release_date_precision": "day",
