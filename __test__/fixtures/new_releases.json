@@ -1328,10 +1328,7 @@
       },
       {
         "album_type": "album",
-        "available_markets": [
-          "CA",
-          "US"
-        ],
+        "available_markets": ["CA", "US"],
         "external_urls": {
           "spotify": "https://open.spotify.com/album/13xRSfodlL3UtG3xSyL8u2"
         },

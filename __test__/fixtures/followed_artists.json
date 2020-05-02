@@ -47,10 +47,7 @@
           "href": null,
           "total": 5708359
         },
-        "genres": [
-          "pop",
-          "pop rock"
-        ],
+        "genres": ["pop", "pop rock"],
         "href": "https://api.spotify.com/v1/artists/04gDigrS5kc9YWfZHwBETP",
         "id": "04gDigrS5kc9YWfZHwBETP",
         "images": [
@@ -88,10 +85,7 @@
           "href": null,
           "total": 618364
         },
-        "genres": [
-          "mellow gold",
-          "soft rock"
-        ],
+        "genres": ["mellow gold", "soft rock"],
         "href": "https://api.spotify.com/v1/artists/08GQAI4eElDnROBrJRGE0X",
         "id": "08GQAI4eElDnROBrJRGE0X",
         "images": [
@@ -299,10 +293,7 @@
           "href": null,
           "total": 376821
         },
-        "genres": [
-          "indie folk",
-          "indie pop"
-        ],
+        "genres": ["indie folk", "indie pop"],
         "href": "https://api.spotify.com/v1/artists/0OdUWJ0sBjDrqHygGUXeCF",
         "id": "0OdUWJ0sBjDrqHygGUXeCF",
         "images": [
@@ -340,9 +331,7 @@
           "href": null,
           "total": 3557763
         },
-        "genres": [
-          "pop"
-        ],
+        "genres": ["pop"],
         "href": "https://api.spotify.com/v1/artists/0du5cEVh5yTK9QJze8zA0C",
         "id": "0du5cEVh5yTK9QJze8zA0C",
         "images": [
@@ -375,9 +364,7 @@
           "href": null,
           "total": 777390
         },
-        "genres": [
-          "garage rock"
-        ],
+        "genres": ["garage rock"],
         "href": "https://api.spotify.com/v1/artists/0epOFNiUfyON9EYx7Tpr6V",
         "id": "0epOFNiUfyON9EYx7Tpr6V",
         "images": [
@@ -486,9 +473,7 @@
           "href": null,
           "total": 3634285
         },
-        "genres": [
-          "pop rap"
-        ],
+        "genres": ["pop rap"],
         "href": "https://api.spotify.com/v1/artists/0jnsk9HBra6NMjO2oANoPY",
         "id": "0jnsk9HBra6NMjO2oANoPY",
         "images": [
@@ -526,9 +511,7 @@
           "href": null,
           "total": 39576
         },
-        "genres": [
-          "cantautor"
-        ],
+        "genres": ["cantautor"],
         "href": "https://api.spotify.com/v1/artists/0uCwhAtvXQlTGZJWDJQykZ",
         "id": "0uCwhAtvXQlTGZJWDJQykZ",
         "images": [
@@ -632,11 +615,7 @@
           "href": null,
           "total": 6938235
         },
-        "genres": [
-          "edm",
-          "electro house",
-          "house"
-        ],
+        "genres": ["edm", "electro house", "house"],
         "href": "https://api.spotify.com/v1/artists/1Cs0zKBU1kc0i8ypK3B9ai",
         "id": "1Cs0zKBU1kc0i8ypK3B9ai",
         "images": [

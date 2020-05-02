@@ -10,9 +10,7 @@
   },
   "href": "https://api.spotify.com/v1/users/jmperezperez/playlists/4vHIKV7j4QcZwgzGQcZg1x",
   "id": "4vHIKV7j4QcZwgzGQcZg1x",
-  "images": [
-    null
-  ],
+  "images": [null],
   "name": "Mola",
   "owner": {
     "external_urls": {
@@ -1367,10 +1365,7 @@
               "uri": "spotify:artist:2pMVWkucVS130nJx59uAEa"
             }
           ],
-          "available_markets": [
-            "ES",
-            "US"
-          ],
+          "available_markets": ["ES", "US"],
           "disc_number": 1,
           "duration_ms": 174120,
           "explicit": false,
@@ -2253,9 +2248,7 @@
               "uri": "spotify:artist:3qUrABCNqnkb5gc2YmPVzP"
             }
           ],
-          "available_markets": [
-            "ES"
-          ],
+          "available_markets": ["ES"],
           "disc_number": 1,
           "duration_ms": 278333,
           "explicit": false,
@@ -2922,9 +2915,7 @@
               "uri": "spotify:artist:3mOsjj1MhocRVwOejIZlTi"
             }
           ],
-          "available_markets": [
-            "ES"
-          ],
+          "available_markets": ["ES"],
           "disc_number": 1,
           "duration_ms": 191973,
           "explicit": false,

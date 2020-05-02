@@ -51,12 +51,7 @@
         "uri": "spotify:artist:0C0XlULifJtAgn6ZNCW2eu"
       }
     ],
-    "available_markets": [
-      "AD",
-      "AR",
-      "TW",
-      "UY"
-    ],
+    "available_markets": ["AD", "AR", "TW", "UY"],
     "disc_number": 1,
     "duration_ms": 222075,
     "explicit": false,

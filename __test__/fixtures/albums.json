@@ -12,11 +12,7 @@
       "uri": "spotify:artist:53A0W3U0s8diEn9RhXQhVz"
     }
   ],
-  "available_markets": [
-    "CA",
-    "MX",
-    "US"
-  ],
+  "available_markets": ["CA", "MX", "US"],
   "external_ids": {
     "upc": "00602537518333"
   },

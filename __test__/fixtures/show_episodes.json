@@ -31,9 +31,7 @@
       "is_externally_hosted": false,
       "is_playable": true,
       "language": "sv",
-      "languages": [
-        "sv"
-      ],
+      "languages": ["sv"],
       "name": "Torsdag 30 april 2020",
       "release_date": "2020-04-30",
       "release_date_precision": "day",
@@ -70,9 +68,7 @@
       "is_externally_hosted": false,
       "is_playable": true,
       "language": "sv",
-      "languages": [
-        "sv"
-      ],
+      "languages": ["sv"],
       "name": "Onsdag 29 april 2020",
       "release_date": "2020-04-29",
       "release_date_precision": "day",

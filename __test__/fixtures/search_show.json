@@ -108,9 +108,7 @@
           }
         ],
         "is_externally_hosted": false,
-        "languages": [
-          "sv"
-        ],
+        "languages": ["sv"],
         "media_type": "audio",
         "name": "Radio Sweden på lätt svenska",
         "publisher": "Sveriges Radio",

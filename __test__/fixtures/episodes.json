@@ -30,9 +30,7 @@
       "is_externally_hosted": false,
       "is_playable": true,
       "language": "sv",
-      "languages": [
-        "sv"
-      ],
+      "languages": ["sv"],
       "name": "Riddarnas vapensköldar under lupp",
       "release_date": "2019-09-10",
       "release_date_precision": "day",
@@ -142,9 +140,7 @@
           }
         ],
         "is_externally_hosted": false,
-        "languages": [
-          "sv"
-        ],
+        "languages": ["sv"],
         "media_type": "audio",
         "name": "Vetenskapsradion Historia",
         "publisher": "Sveriges Radio",
@@ -184,9 +180,7 @@
       "is_externally_hosted": false,
       "is_playable": true,
       "language": "sv",
-      "languages": [
-        "sv"
-      ],
+      "languages": ["sv"],
       "name": "Okända katedralen i Dalsland",
       "release_date": "2019-09-03",
       "release_date_precision": "day",
@@ -296,9 +290,7 @@
           }
         ],
         "is_externally_hosted": false,
-        "languages": [
-          "sv"
-        ],
+        "languages": ["sv"],
         "media_type": "audio",
         "name": "Vetenskapsradion Historia",
         "publisher": "Sveriges Radio",
